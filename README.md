@@ -17,7 +17,7 @@ Advice:
 
 
 ## **2. 𝗗𝗦𝗔 (𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀 & 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀)** :
--> do Lc Only with contest on lc and Atcoder on your own . if fear rating falling then give virtual contest but in on your own but if required for syntax then wrote it some where and revise it. target 3 questions always in 45 min.
+-> do Lc Only with contest on lc and Atcoder on your own . if fear rating falling then give virtual contest but in on your own but if required for syntax use gpt but then wrote it some where and revise it so reduce dependency on Ai. target to solve 3 questions always in 45 min.
 
 -> use [﻿Saiganesh patterns Questions](https://sabadusaiganeshreddy.github.io/ProjectYuj/dsa/2026/02/21/essential-two-pointers-sliding-window-problems)  and codestorywithmik yt playlists to find questions.
 
@@ -26,7 +26,7 @@ Advice:
 -> main focus on 
 
 > Greedy / Binary Search / Strings / Maths + Bits Manipulation (usually first problem)
-DP / Graph / Tree (usually second problem)
+> DP / Graph / Tree (usually second problem)
 
 -> give mock interview when consistently solve 3 que in LC Contests [﻿Mock Interview](https://maang.in/mocks?tab=company-wise-practice) 
 
