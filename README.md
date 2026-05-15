@@ -16,7 +16,7 @@ Advice:
 
 
 
-## 2. 𝗗𝗦𝗔 (𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀 & 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀) :
+## **2. 𝗗𝗦𝗔 (𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀 & 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀)** :
 -> do Lc Only with contest on lc and Atcoder on your own . if fear rating falling then give virtual contest but in on your own but if required for syntax then wrote it some where and revise it. target 3 questions always in 45 min.
 
 -> use [﻿Saiganesh patterns Questions](https://sabadusaiganeshreddy.github.io/ProjectYuj/dsa/2026/02/21/essential-two-pointers-sliding-window-problems)  and codestorywithmik yt playlists to find questions.
@@ -32,7 +32,7 @@ DP / Graph / Tree (usually second problem)
 
 
 
-## 3. **SQL – Frequently Asked : **
+## **3. SQL – Frequently Asked : **
 -> [﻿gfg tutorial](https://www.geeksforgeeks.org/sql/sql-tutorial/)  do this first then solve 
 
 -> [﻿leetcode sql 50 ](https://leetcode.com/studyplan/top-sql-50/)  and [﻿gfg top 100 sql](https://www.geeksforgeeks.org/sql/sql-interview-questions/)  and [﻿github recent que](https://github.com/xoraus/CrackingTheSQLInterview) 
