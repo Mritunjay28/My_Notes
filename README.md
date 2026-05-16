@@ -28,7 +28,7 @@ Advice:
 > Greedy / Binary Search / Strings / Maths + Bits Manipulation (usually first problem)
 > DP / Graph / Tree (usually second problem)
 
--> give mock interview when consistently solve 3 que in LC Contests [﻿Mock Interview](https://maang.in/mocks?tab=company-wise-practice) 
+-> give mock interview when consistently solve 3 que in LC Contests [﻿Mock Interview](https://maang.in/mocks?tab=company-wise-practice)
 
 
 
@@ -82,6 +82,13 @@ Topics to cover :
 
 Topics to be Covered : check topics in yt [﻿syllabus ](https://youtu.be/CuQmQpvw04I?si=mtGvDdmPkevzgVo2&t=342) 
 
+
+
+## **7. Some useful Websites : **
+-> [﻿thita for dsa patterns and system design ](https://thita.ai/dsa-patterns-sheet) 
+-> [prechub - real interview questions ](https://prachub.com/positions/software-engineer?sort=hot) 
+-> [codinzhub - latest real interview questions ](https://www.codinzhub.com/questions) 
+-> [mock interview Platform](https://roundzero.live/)
 
 
 
