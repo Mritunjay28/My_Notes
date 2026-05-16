@@ -91,7 +91,7 @@ Topics to be Covered : check topics in yt [﻿syllabus ](https://youtu.be/CuQmQp
 
 -> [codinzhub - latest real interview questions ](https://www.codinzhub.com/questions) 
 
--> [mock interview Platform](https://roundzero.live/)
+-> [roundzero - ai mock interview Platform](https://roundzero.live/)
 
 
 
