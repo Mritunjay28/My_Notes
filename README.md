@@ -86,8 +86,11 @@ Topics to be Covered : check topics in yt [﻿syllabus ](https://youtu.be/CuQmQp
 
 ## **7. Some useful Websites : **
 -> [﻿thita for dsa patterns and system design ](https://thita.ai/dsa-patterns-sheet) 
+
 -> [prechub - real interview questions ](https://prachub.com/positions/software-engineer?sort=hot) 
+
 -> [codinzhub - latest real interview questions ](https://www.codinzhub.com/questions) 
+
 -> [mock interview Platform](https://roundzero.live/)
 
 
